@@ -1,0 +1,31 @@
+
+.cards{
+    border: 1px solid gray;
+    width: 251px;
+    height: 350px;
+    border-radius: 2px;
+    }
+.imageContainer img{
+    width: 250px;
+    height: 280px;
+}
+.textBox{
+    padding:0 10px
+}
+
+.cards p{
+    margin: 0px;
+}
+.cards svg{
+   height: 15px;
+   color: goldenrod;
+}
+.nameRating{
+    display: flex;
+    justify-content: space-between;
+}
+.ratings{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
